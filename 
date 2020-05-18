@@ -1,0 +1,29 @@
+[1mdiff --git a/two.txt b/two.txt[m
+[1mindex 477aa59..955a324 100644[m
+[1m--- a/two.txt[m
+[1m+++ b/two.txt[m
+[36m@@ -1,14 +1,7 @@[m
+ this is my two git file.[m
+ [m
+[31m-[m
+[31m-[m
+[31m-[m
+ update the first git file.[m
+ [m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+ hello world[m
+ [m
+ [m
+[36m@@ -18,4 +11,6 @@[m [mfour[m
+ [m
+ five[m
+ [m
+[31m-six[m
+\ No newline at end of file[m
+[32m+[m[32msix[m
+[32m+[m
+[32m+[m[32m2[m
+\ No newline at end of file[m
