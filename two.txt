@@ -25,6 +25,7 @@ bianji
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 new mergei
 =======
@@ -33,3 +34,9 @@ new mergei
 >>>>>>> b6bd834... new
 =======
 >>>>>>> b6bd834... new
+=======
+
+new
+
+two
+>>>>>>> 73d5c36... new
