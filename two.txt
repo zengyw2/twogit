@@ -14,6 +14,7 @@ five
 six
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 
 0518
@@ -26,3 +27,8 @@ bianji
 new
 
 two
+=======
+bianji
+
+1
+>>>>>>> 1617802b030e687977bc2163bebc84cdfd271847
